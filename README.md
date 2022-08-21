@@ -44,3 +44,21 @@ To run this project, you will need to add the following environment variables to
 
 `DATABASE_URL` = mongodb://127.0.0.1/mydb
 
+
+## 🛠 Skills
+NodeJS
+
+
+## Screenshots
+
+https://ibb.co/z5y5qjH
+
+https://ibb.co/YPjx6xs
+
+https://ibb.co/x6zqpvM
+
+
+## Tech Stack
+
+**Server:** Node, Express
+
