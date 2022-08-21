@@ -30,7 +30,9 @@ The project provides statistical data regarding the activity of the robots:
 send back a JSON object that includes the following:
 
 ● Top 10 robots last minute with the largest number of alerts:
+
 ● Top 10 robots last hour with the largest number of alerts.
+
 ● All robots that crashed in the last 24 hours and at what time(s).
 
 ## Installation
