@@ -33,6 +33,12 @@ send back a JSON object that includes the following:
 ● Top 10 robots last hour with the largest number of alerts.
 ● All robots that crashed in the last 24 hours and at what time(s).
 
+## Installation
+
+```bash
+  npm install 
+```
+
 
 ## Environment Variables
 
